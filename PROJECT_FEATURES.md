@@ -1,5 +1,5 @@
 # Implemented Features
-"## T-01: AI-Powered Crop Disease Detection" 
-"Farmer captures crop leaf images using smartphone camera for AI diagnosis." 
-"**Status: Implemented**" 
-"" 
+## T-02: Buyer Marketplace Product Browsing and Ordering
+Buyer can search products, filter by category, add to cart, and place orders.
+**Status: Implemented**
+
