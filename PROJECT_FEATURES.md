@@ -1,5 +1,5 @@
 # Implemented Features
-## T-04: Agri-Input Supplier Product Management
-Suppliers can list seeds/fertilizers and provide application dosage guidance.
-**Status: Implemented**
-
+"## T-01: AI-Powered Crop Disease Detection" 
+"Farmer captures crop leaf images using smartphone camera for AI diagnosis." 
+"**Status: Implemented**" 
+"" 
