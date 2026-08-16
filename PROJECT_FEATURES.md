@@ -1,4 +1,5 @@
 # Implemented Features
-## T-05: Admin Verification and Analysis Dashboard
-Admin verifies user documents, assigns verified badges, and monitors analytics.
+## T-03: Expert Advisory Content and Query Response System
+Agricultural experts can create advisory posts and answer farmer queries.
 **Status: Implemented**
+
